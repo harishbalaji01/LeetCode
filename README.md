@@ -14,4 +14,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/harishbalaji01/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harishbalaji01/LeetCode/tree/master/0009-palindrome-number) |
+| [2383-add-two-integers](https://github.com/harishbalaji01/LeetCode/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
